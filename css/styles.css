@@ -1,0 +1,30 @@
+/*Nina Kong*/
+body {
+    font-family: Dosis, arial, sans-serif;
+    font-size: 20px;
+}
+h1 {
+	padding: 2em;
+}
+.container {
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+
+/*Ultility*/
+.align-center {
+	text-align: center;
+}
+.align-left {
+	text-align: left;
+}
+.align-right {
+	text-align: right;
+}
+.float-right {
+	float: right;
+}
+.padding-0 {
+	padding: 0;
+}
