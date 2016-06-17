@@ -11,6 +11,7 @@ function showPassword() {
 	})
 }
 
-window.onload = function() {
+$(document).ready(function () {
+	"use strict";
 	showPassword();
-};
+});
